@@ -23,6 +23,8 @@ Nine
 
 # Range Type
 
+Example 1#
+
 ```
 string[] numbers = { "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten" };
 
@@ -38,4 +40,18 @@ foreach (var s in result)  // Three, Four
 Output:
 Three, Four
 ```
+
+Example 2#
+
+```
+Range range = 1..4;
+
+var result1 = numbers[range];
+
+foreach (var v1 in result1) // Two, Three, Four
+{
+     Console.WriteLine(v1);
+}
+```
+
 
