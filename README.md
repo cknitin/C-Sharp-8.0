@@ -54,4 +54,9 @@ foreach (var v1 in result1) // Two, Three, Four
 }
 ```
 
+```
+Output:
+Two, Three, Four
+```
+
 
