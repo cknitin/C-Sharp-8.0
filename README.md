@@ -74,4 +74,34 @@ Output:
 Two, Three, Four
 ```
 
+Example 3#
+
+```
+foreach (var v1 in numbers[2..]) 
+Console.WriteLine(v1);
+```
+```
+Output:
+"Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten" 
+```
+
+```
+foreach (var v1 in numbers[..4]) 
+Console.WriteLine(v1); 
+```
+```
+Output:
+"One", "Two", "Three", "Four"
+```
+
+```
+foreach (var v1 in numbers[..]) 
+Console.WriteLine(v1); 
+```
+
+```
+Output:
+"One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten"
+```
+
 
