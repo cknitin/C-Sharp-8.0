@@ -7,11 +7,8 @@ Feature of C# 8.0
 | One     | Two  | Three   |Four  |Five     |Six   |Seven    |Eight |Nine     |Ten   |  
 
 
-| 1      | 2 | 3     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
+|1|2|3|4|5|6|7|8|9|
+|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten| 
 ```
 string[] numbers = { "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten"};
 
