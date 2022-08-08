@@ -20,3 +20,5 @@ Console.WriteLine($"Result of Index# { numbers[^2]}"); // Nine
 ```
 Nine
 ```
+
+# Range Type
