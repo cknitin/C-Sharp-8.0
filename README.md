@@ -22,3 +22,20 @@ Nine
 ```
 
 # Range Type
+
+```
+string[] numbers = { "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten" };
+
+var result = numbers[2..4]; // Three, Four
+
+foreach (var s in result)  // Three, Four
+{
+    Console.WriteLine(s);
+}
+```
+
+```
+Output:
+Three, Four
+```
+
