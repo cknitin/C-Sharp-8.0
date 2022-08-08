@@ -44,6 +44,8 @@ Three, Four
 Example 2#
 
 ```
+string[] numbers = { "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten"};
+
 Range range = 1..4;
 
 var result1 = numbers[range];
