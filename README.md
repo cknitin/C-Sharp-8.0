@@ -30,6 +30,10 @@ Nine
 
 Example 1#
 
+| 0       | 1    | 2       | 3    | 4       | 5    | 6       | 7    | 8       | 9    |
+|---------|------|---------|------|---------|------|---------|------|---------|------|
+| One     | Two  | Three   |Four  |Five     |Six   |Seven    |Eight |Nine     |Ten   |  
+
 ```
 string[] numbers = { "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten" };
 
@@ -47,6 +51,10 @@ Three, Four
 ```
 
 Example 2#
+
+| 0       | 1    | 2       | 3    | 4       | 5    | 6       | 7    | 8       | 9    |
+|---------|------|---------|------|---------|------|---------|------|---------|------|
+| One     | Two  | Three   |Four  |Five     |Six   |Seven    |Eight |Nine     |Ten   |  
 
 ```
 string[] numbers = { "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten"};
