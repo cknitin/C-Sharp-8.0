@@ -7,7 +7,7 @@ Feature of C# 8.0
 | One     | Two  | Three   |Four  |Five     |Six   |Seven    |Eight |Nine     |Ten   |  
 
 
-| Syntax      | Description | Test Text     |
+| 1      | 2 | 3     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
