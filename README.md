@@ -104,4 +104,22 @@ Output:
 "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten"
 ```
 
+```
+foreach (var v1 in numbers[2..4]) 
+Console.WriteLine(v1);
+
+Output:
+"Three", "Four"
+```
+
+```
+int i = 2;
+Range range1 = i..(i+2);
+foreach (var v1 in numbers[range1]) 
+Console.WriteLine(v1);
+
+Output:
+"Three", "Four"
+```
+
 
